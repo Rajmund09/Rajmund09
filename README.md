@@ -4,7 +4,7 @@
 # Hi there, I'm Rajmund! 👋
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajmund09&show_icons=true&theme=dark" alt="Rajmund's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajmund09&show_icons=true&theme=dark" alt="Rajmund GitHub stats" />
 </p>
 
 ## 🌐 Socials:
