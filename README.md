@@ -15,6 +15,4 @@
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=Rajmund09&theme=highcontrast&hide_border=false)<br/>
 ---
-
-good by merge conflict
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
