@@ -1,29 +1,55 @@
-👋 Hi, I’m Prabhu Shankar Mund (Raj)
-🎓 BCA Undergraduate | 🤖 Aspiring AI/ML Engineer | 💻 Developer & Problem Solver
-I’m a computer science student passionate about building efficient, scalable, and real-world applications. I enjoy solving problems with clean logic, writing maintainable code, and continuously improving my technical skills through projects and practice.
-🚀 What I Work With
-Programming & DSA: C++, Python, Java
-AI & Automation: Python-based automation tools & workflows
-Web Development: HTML, CSS, JavaScript, React
-Databases: MySQL, DBMS fundamentals
-3D Game Art & Design: Blender, Unity
-🌱 Currently Learning
-Advanced Data Structures & Algorithms
-Artificial Intelligence & Machine Learning fundamentals
-Building real-world projects using Python & JavaScript
-Writing cleaner, scalable, and production-ready code
-🤝 Open to Collaborate On
-Web development projects
-Beginner-friendly open-source contributions
-Python / Java-based applications
-🧠 Looking to Learn More About
-Advanced DSA concepts & optimization techniques
-Structured AI/ML learning paths
-Software architecture & best development practices
-💬 Ask Me About
+👋 **Hi, I’m Prabhu Shankar Mund (Raj)**  
+
+🎓 **BCA Undergraduate** | 🤖 **Aspiring AI/ML Engineer** | 💻 **Developer & Problem Solver**
+
+I’m a computer science student passionate about building **efficient, scalable, and real-world applications**. I enjoy solving problems with **clean logic**, writing **maintainable code**, and continuously improving my technical skills through projects and hands-on practice.
+
+---
+
+🚀 **What I Work With**
+
+- **Programming & DSA:** C++, Python, Java  
+- **AI & Automation:** Python-based automation tools & workflows  
+- **Web Development:** HTML, CSS, JavaScript, React  
+- **Databases:** MySQL, DBMS fundamentals  
+- **3D Game Art & Design:** Blender, Unity  
+
+---
+
+🌱 **Currently Learning**
+
+- Advanced **Data Structures & Algorithms**  
+- **Artificial Intelligence & Machine Learning** fundamentals  
+- Building **real-world projects** using Python & JavaScript  
+- Writing **cleaner, scalable, and production-ready code**  
+
+---
+
+🤝 **Open to Collaborate On**
+
+- Web development projects  
+- Beginner-friendly open-source contributions  
+- Python / Java-based applications  
+
+---
+
+🧠 **Looking to Learn More About**
+
+- Advanced DSA concepts & optimization techniques  
+- Structured AI/ML learning paths  
+- Software architecture & best development practices  
+
+---
+
+💬 **Ask Me About**
+
 C++, Python, Web Development (HTML/CSS/JavaScript/React), DBMS basics, and 3D Game Art using Blender & Unity.
-⚡ Fun Fact
-I love combining logic and creativity — from solving DSA problems to designing 3D game assets and crafting smooth, interactive user experiences.
+
+---
+
+⚡ **Fun Fact**
+
+I love combining **logic and creativity** — from solving DSA problems to designing 3D game assets and crafting smooth, interactive user experiences.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/AbCd1234) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raj___mund) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prabhushankar-mund-216a5634a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Prabhushan60291) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prabhushankarmund@gmail.com) 
