@@ -51,7 +51,7 @@ C++, Python, Web Development (HTML/CSS/JavaScript/React), DBMS basics, and 3D Ga
 
 I love combining **logic and creativity** — from solving DSA problems to designing 3D game assets and crafting smooth, interactive user experiences.
 
-![Space Shotter preview](git gif.gif)
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/AbCd1234) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raj___mund) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prabhushankar-mund-216a5634a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Prabhushan60291) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prabhushankarmund@gmail.com) 
