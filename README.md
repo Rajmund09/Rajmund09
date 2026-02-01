@@ -52,7 +52,7 @@ C++, Python, Web Development (HTML/CSS/JavaScript/React), DBMS basics, and 3D Ga
 I love combining **logic and creativity** — from solving DSA problems to designing 3D game assets and crafting smooth, interactive user experiences.
 
 <p align = "center">
-<img src = "space-shooter.gif" width = "600"/>
+<img src = "space-shooter.mp4" width = "600"/>
 </p>
 
 ## 🌐 Socials:
