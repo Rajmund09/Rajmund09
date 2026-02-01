@@ -51,10 +51,14 @@ C++, Python, Web Development (HTML/CSS/JavaScript/React), DBMS basics, and 3D Ga
 
 I love combining **logic and creativity** — from solving DSA problems to designing 3D game assets and crafting smooth, interactive user experiences.
 
+### 🎮 Space Shooter — Gameplay Preview
+
 <p align="center">
-  <b>🎮 Space Shooter – Gameplay Preview</b><br>
-  https://github.com/Rajmund09/Rajmund09/raw/main/space-shooter.mp4
+  <img src="space-shooter.gif" width="600" />
 </p>
+
+▶️ Full gameplay video:  
+https://github.com/Rajmund09/Rajmund09/raw/main/space-shooter.mp4
 
 
 ## 🌐 Socials:
