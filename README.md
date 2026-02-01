@@ -54,7 +54,8 @@ I love combining **logic and creativity** — from solving DSA problems to desig
 ### 🎮 Space Shooter — Gameplay Preview
 
 <p align="center">
-  <img src="space-shooter.gif" width="600" />
+  <img src="Rajmund09-space-shooter.gif" width="600" />
+
 </p>
 
 ▶️ Full gameplay video:  
