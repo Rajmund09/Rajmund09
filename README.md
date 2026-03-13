@@ -120,9 +120,7 @@ MLOps & Deployment        ███░░░░░░░░░░░░░  15% 
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=Rajmund09&theme=highcontrast&hide_border=true&border_radius=12&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c4b5fd" width="420"/>
 
-<br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rajmund09&theme=dracula&no-frame=true&no-bg=true&margin-w=6&row=1&column=6"/>
 
 <br/><br/>
 
