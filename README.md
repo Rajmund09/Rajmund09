@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:1e1040,100:8b5cf6&height=200&section=header&text=Prabhu%20Shankar%20Mund&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=Raj%20%C2%B7%20BCA%20Student%20%C2%B7%20AI%2FML%20Engineer%20%C2%B7%20Cloud%20%26%20Web%20Developer&descAlignY=64&descSize=15&descColor=c4b5fd&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,50:1e1040,100:8b5cf6&height=160&section=header&text=Prabhu%20Shankar%20Mund&fontSize=40&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%"/>
+
+<h3>Raj &nbsp;·&nbsp; BCA Student &nbsp;·&nbsp; AI/ML Engineer &nbsp;·&nbsp; Cloud & Web Developer</h3>
 
 <br/>
 
@@ -124,9 +126,7 @@ MLOps & Deployment        ███░░░░░░░░░░░░░  15% 
 
 <br/><br/>
 
-<!-- 🐍 Snake contribution graph — requires GitHub Action setup             -->
-<!-- See: https://github.com/Platane/snk to enable this for your profile   -->
-<img src="https://raw.githubusercontent.com/Rajmund09/Rajmund09/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajmund09&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=c4b5fd&area=true&area_color=1e1040&hide_border=true" width="100%"/>
 
 </div>
 
@@ -146,7 +146,7 @@ MLOps & Deployment        ███░░░░░░░░░░░░░  15% 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8b5cf6,60:1e1040,100:0d1117&height=120&section=footer&text=Thanks+for+visiting!&fontSize=16&fontColor=c4b5fd&fontAlignY=50&animation=fadeIn&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:8b5cf6,50:1e1040,100:0d1117&height=120&section=footer&text=Thanks+for+visiting!&fontSize=16&fontColor=c4b5fd&fontAlignY=50&animation=fadeIn&reversal=true" width="100%"/>
 
 *"Combining logic and creativity — one commit at a time."*
 
