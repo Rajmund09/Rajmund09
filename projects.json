@@ -1,0 +1,289 @@
+{
+  "projects": [
+    {
+      "name": "THING - Voice Assistant",
+      "type": "AI Desktop Assistant",
+      "description": "An intelligent Windows-based voice assistant featuring advanced natural language processing, system automation, real-time music playback, news aggregation, contextual memory management, and AI-powered conversations powered by Groq LLM. Designed for seamless desktop automation and proactive intelligent assistance.",
+      "language": "Python",
+      "stars": 4,
+      "repository_url": "https://github.com/Rajmund09/THING-Voice-Assistant",
+      "topics": ["AI", "voice-assistant", "automation", "groq-llm", "windows"]
+    },
+    {
+      "name": "SkillTrack",
+      "type": "Python Productivity & Analytics Platform",
+      "description": "A comprehensive productivity and skill analytics system built with Python and Flask, featuring data management capabilities for tracking professional development, skill progression, and performance metrics with visual analytics and reporting.",
+      "language": "Python",
+      "stars": 7,
+      "repository_url": "https://github.com/Rajmund09/SkillTrack",
+      "topics": ["python", "flask", "productivity", "analytics", "skill-tracking"]
+    },
+    {
+      "name": "Mini-Banking-System",
+      "type": "Java Desktop Banking Application",
+      "description": "A robust and secure banking management system with comprehensive workflows, administrative controls, and complete CRUD operations. Features advanced data security protocols, transaction management, and account administration capabilities built on Java enterprise standards.",
+      "language": "Java",
+      "stars": 6,
+      "repository_url": "https://github.com/Rajmund09/Mini-Banking-System",
+      "topics": ["java", "banking", "swing", "jdbc", "database"]
+    },
+    {
+      "name": "NeuroBrand Studio",
+      "type": "AI Digital Branding & Design Platform",
+      "description": "A cutting-edge AI-powered branding website featuring futuristic design philosophy, smooth animations using GSAP, and immersive video-based storytelling powered by Locomotive Scroll. Showcases next-generation digital brand experiences with modern UI/UX principles and interactive visual narratives.",
+      "language": "CSS",
+      "stars": 6,
+      "repository_url": "https://github.com/Rajmund09/neurobrand-site",
+      "topics": ["branding", "gsap", "locomotive-scroll", "animations", "ui-design"]
+    },
+    {
+      "name": "Algoarena Connect Landing",
+      "type": "Tournament Management Community Platform",
+      "description": "A modern and dynamic community hub designed for gaming tournament connectivity, featuring integrated social communication channels (WhatsApp, Instagram, Discord), player engagement tools, and streamlined community interaction for competitive gaming platforms.",
+      "language": "CSS",
+      "stars": 4,
+      "repository_url": "https://github.com/Rajmund09/Algoarena-connect-landing",
+      "topics": ["tournament", "community", "gaming", "social-integration", "web-design"]
+    },
+    {
+      "name": "LernW - Course Platform",
+      "type": "Educational Learning Management System",
+      "description": "A premium and responsive educational platform featuring animated user interface, fully responsive design architecture, advanced course management capabilities, and interactive learning experiences. Designed for modern online education with user-centric design and seamless course delivery.",
+      "language": "HTML",
+      "stars": 6,
+      "repository_url": "https://github.com/Rajmund09/course_website",
+      "topics": ["education", "lms", "responsive-design", "course-management", "interactive-ui"]
+    },
+    {
+      "name": "Prabhu Shankar - Portfolio",
+      "type": "AI/ML Professional Portfolio Website",
+      "description": "An innovative and interactive portfolio website showcasing expertise in artificial intelligence, machine learning, full-stack development, and 3D design. Features animated UI components, responsive architecture, live project demonstrations, and professional case studies.",
+      "language": "CSS",
+      "stars": 5,
+      "repository_url": "https://github.com/Rajmund09/prabhu-shankar-portfolio",
+      "topics": ["portfolio", "ai-ml", "web-development", "3d-design", "professional"]
+    },
+    {
+      "name": "WhatsApp AI Auto-Reply Bot",
+      "type": "AI Automation & Integration Tool",
+      "description": "An advanced AI-powered desktop automation bot for WhatsApp featuring intelligent message responses using Groq LLM, PyAutoGUI integration for system automation, and context-aware reply generation. Enables seamless workflow automation and intelligent message management.",
+      "language": "Python",
+      "stars": 4,
+      "repository_url": "https://github.com/Rajmund09/whatsapp-ai-auto-reply-bot",
+      "topics": ["whatsapp", "ai", "automation", "bot", "groq-llm", "pyautogui"]
+    },
+    {
+      "name": "Electricity Billing System",
+      "type": "C++ Enterprise Management Application",
+      "description": "A sophisticated automated billing management system featuring customer record administration, usage-based electricity bill calculations with dynamic tax computation, and payment status tracking. Implements persistent binary file storage for secure data management and enterprise-grade reliability.",
+      "language": "C++",
+      "stars": 7,
+      "repository_url": "https://github.com/Rajmund09/Electricity-Billing-System",
+      "topics": ["c++", "billing", "database", "automation", "financial-management"]
+    },
+    {
+      "name": "Business Name Generator",
+      "type": "Web-Based Utility Application",
+      "description": "A user-friendly web application for generating creative business names using intelligent algorithms, built with HTML, CSS, and JavaScript. Demonstrates advanced DOM manipulation techniques and JavaScript logic implementation for practical business naming solutions.",
+      "language": "CSS",
+      "stars": 7,
+      "repository_url": "https://github.com/Rajmund09/business-name-generator",
+      "topics": ["javascript", "web-app", "business", "generator", "frontend"]
+    },
+    {
+      "name": "Faulty Calculator Web",
+      "type": "Interactive Web Utility",
+      "description": "An entertainingly designed calculator application with intentional computational errors for engaging user experience, built with HTML, CSS, and JavaScript. Showcases creative frontend development and interactive component design with humorous functionality.",
+      "language": "CSS",
+      "stars": 5,
+      "repository_url": "https://github.com/Rajmund09/faulty-calculator-web",
+      "topics": ["javascript", "calculator", "web-app", "frontend", "interactive"]
+    },
+    {
+      "name": "Snake Water Gun - Python Game",
+      "type": "Python Game & Logic Implementation",
+      "description": "A command-line game implementing the classic Snake-Water-Gun logic using Python dictionaries, conditional statements, and algorithmic game theory. Demonstrates core programming concepts and interactive game mechanics through lightweight, efficient code.",
+      "language": "HTML",
+      "stars": 5,
+      "repository_url": "https://github.com/Rajmund09/snake-water-gun-python",
+      "topics": ["python", "game", "cli", "logic", "algorithms"]
+    },
+    {
+      "name": "Guess The Number",
+      "type": "Python Interactive Game",
+      "description": "An engaging Python game implementing number guessing mechanics with score tracking and performance analytics. Features interactive gameplay, difficulty management, and best score recording for competitive gaming experience.",
+      "language": "CSS",
+      "stars": 4,
+      "repository_url": "https://github.com/Rajmund09/Guess-The-Number",
+      "topics": ["python", "game", "interactive", "scoring", "entertainment"]
+    },
+    {
+      "name": "Mund Global Insurance Website",
+      "type": "Business & Corporate Website",
+      "description": "A premium and fully responsive insurance brokerage website featuring modern UI design, smooth animations, and interactive components. Built with HTML, CSS, and JavaScript implementing industry-standard web practices for professional financial services presentation.",
+      "language": "CSS",
+      "stars": 3,
+      "repository_url": "https://github.com/Rajmund09/mund-global-insurance-website",
+      "topics": ["business", "insurance", "responsive-design", "animations", "web-design"]
+    },
+    {
+      "name": "Elegant TODO Pro",
+      "type": "Productivity Web Application",
+      "description": "A feature-rich task management application featuring glassmorphic UI design, advanced priority management, focused work mode (Pomodoro-style), and persistent localStorage for data retention. Combines elegant aesthetics with practical productivity features.",
+      "language": "CSS",
+      "stars": 3,
+      "repository_url": "https://github.com/Rajmund09/elegant-todo-pro",
+      "topics": ["todo", "productivity", "glassmorphism", "ui-design", "web-app"]
+    },
+    {
+      "name": "Epic Free Games Claimer",
+      "type": "Python Automation & Web Scraping Tool",
+      "description": "A sophisticated semi-automated Python tool using Playwright for safely claiming free games from the Epic Games Store. Implements secure browser automation, form interactions, and account management with robust error handling and safety protocols.",
+      "language": "Python",
+      "stars": 3,
+      "repository_url": "https://github.com/Rajmund09/epic-free-games-claimer",
+      "topics": ["python", "automation", "playwright", "web-scraping", "epic-games"]
+    },
+    {
+      "name": "Text Editor Download UI",
+      "type": "Web UI Component Library",
+      "description": "A responsive and professional software download interface template built with pure HTML and CSS. Provides reusable UI components for software distribution platforms with modern design patterns and mobile-first responsive architecture.",
+      "language": "HTML",
+      "stars": 3,
+      "repository_url": "https://github.com/Rajmund09/text-editor-download-ui",
+      "topics": ["html-css", "ui-design", "responsive", "frontend", "components"]
+    },
+    {
+      "name": "Aesthetic Card UI",
+      "type": "Web Design Component",
+      "description": "A minimalist card component library emphasizing simplicity, visual balance, and professional spacing. Built with pure HTML and CSS, demonstrating modern design principles and reusable UI patterns for contemporary web applications.",
+      "language": "HTML",
+      "stars": 4,
+      "repository_url": "https://github.com/Rajmund09/aesthetic-card-ui",
+      "topics": ["html-css", "design", "components", "ui-patterns", "frontend"]
+    },
+    {
+      "name": "Manoj Kirana Store - Official Website",
+      "type": "Bilingual E-Commerce Business Website",
+      "description": "An official bilingual (Odia + English) responsive website for a local grocery retail business in Gungunia, Odisha. Features integrated WhatsApp business communication, Google Maps integration, mobile-first design, and multilingual support for regional commerce.",
+      "language": "CSS",
+      "stars": 3,
+      "repository_url": "https://github.com/Rajmund09/manoj-kirana-store-official",
+      "topics": ["business", "ecommerce", "responsive-design", "multilingual", "local-business"]
+    },
+    {
+      "name": "Card Builder Pro",
+      "type": "Web-Based Design Tool",
+      "description": "An interactive card design and customization application allowing users to create personalized cards with dynamic themes, color palettes, typography options, and content management. Currently in active development with planned advanced design features.",
+      "language": "HTML",
+      "stars": 3,
+      "repository_url": "https://github.com/Rajmund09/card-builder-pro",
+      "topics": ["design-tool", "web-app", "customization", "ui-design", "interactive"]
+    },
+    {
+      "name": "Smooth Bounce Animation",
+      "type": "CSS Animation Library",
+      "description": "A CSS-only physics-based animation implementation featuring realistic bouncing ball mechanics using advanced keyframe animations, gradient effects, and modern easing functions. Demonstrates pure CSS animation capabilities without JavaScript dependencies.",
+      "language": "CSS",
+      "stars": 3,
+      "repository_url": "https://github.com/Rajmund09/smooth-bounce-animation",
+      "topics": ["css", "animation", "physics", "easing-functions", "frontend"]
+    },
+    {
+      "name": "AgroBrain 360",
+      "type": "AI-Powered Agricultural Platform",
+      "description": "An innovative offline-first AI agriculture platform leveraging computer vision and edge computing for farmers. Features comprehensive crop disease detection, livestock health monitoring, agricultural machinery repair guidance, waste management solutions, and local service discovery.",
+      "language": "HTML",
+      "stars": 2,
+      "repository_url": "https://github.com/Rajmund09/agrobrain-360",
+      "topics": ["ai", "agriculture", "computer-vision", "edge-ai", "farming"]
+    },
+    {
+      "name": "AgroBrain 360 - App Prototype",
+      "type": "Mobile Application Prototype",
+      "description": "A mobile application prototype for the AgroBrain 360 platform, providing agricultural technology solutions optimized for mobile devices with touch-friendly interfaces and offline-first capabilities for rural accessibility.",
+      "language": "HTML",
+      "stars": 2,
+      "repository_url": "https://github.com/Rajmund09/agrobrain360-app-prototype",
+      "topics": ["mobile", "prototype", "agriculture", "ui-design", "offline-first"]
+    },
+    {
+      "name": "Cinematic Render Quest",
+      "type": "TypeScript Application Framework",
+      "description": "A TypeScript-based application framework for advanced cinematic rendering capabilities and quest-based narrative systems. Designed for immersive storytelling experiences with high-performance rendering and dynamic quest management.",
+      "language": "TypeScript",
+      "stars": 2,
+      "repository_url": "https://github.com/Rajmund09/cinematic-render-quest",
+      "topics": ["typescript", "rendering", "3d-graphics", "narrative", "framework"]
+    },
+    {
+      "name": "TOKEN.GATE",
+      "type": "Security & Multi-Tenant Access Management Platform",
+      "description": "An enterprise-grade high-security access management platform engineered for event hosting and identity verification. Implements security-first architecture with comprehensive auditing, protocol isolation, multi-tenant support, and vibrant modern UI design for industrial-scale access control.",
+      "language": "Python",
+      "stars": 2,
+      "repository_url": "https://github.com/Rajmund09/TOKEN.GATE",
+      "topics": ["security", "access-control", "multi-tenant", "event-management", "identity"]
+    },
+    {
+      "name": "Smart City DSA Simulator",
+      "type": "C++ Educational & DSA Implementation",
+      "description": "A modular and extensible Smart City Management Simulator built in C++, implementing comprehensive Data Structures and Algorithms curriculum from foundational to advanced levels. Designed for educational purposes with real-world urban management scenarios.",
+      "language": "C++",
+      "stars": 2,
+      "repository_url": "https://github.com/Rajmund09/smart-city-dsa-simulator",
+      "topics": ["c++", "dsa", "algorithms", "data-structures", "educational"]
+    },
+    {
+      "name": "ChurnGuard ML",
+      "type": "Machine Learning Analytics Platform",
+      "description": "An AI-powered customer churn prediction platform utilizing XGBoost algorithms achieving 93% accuracy with SHAP-based explainability. Features Flask backend, real-time predictive dashboard, and comprehensive analytics for customer retention strategies.",
+      "language": "HTML",
+      "stars": 2,
+      "repository_url": "https://github.com/Rajmund09/churnguard-ml",
+      "topics": ["machine-learning", "xgboost", "prediction", "flask", "analytics"]
+    },
+    {
+      "name": "Init Education Intelligence Platform",
+      "type": "Educational Intelligence & Analytics System",
+      "description": "An intelligent educational platform built with Python featuring advanced learning analytics, student performance tracking, personalized learning path recommendations, and data-driven insights for educational institutions.",
+      "language": "Python",
+      "stars": 3,
+      "repository_url": "https://github.com/Rajmund09/git-initeducation-intelligence-platform",
+      "topics": ["education", "analytics", "python", "learning-management", "intelligence"]
+    },
+    {
+      "name": "Badgs",
+      "type": "CSS Component Library",
+      "description": "A modern badge and notification component library built with CSS, providing reusable UI elements for status indicators, notifications, and labels. Implements responsive design patterns and accessibility standards for contemporary web applications.",
+      "language": "CSS",
+      "stars": 3,
+      "repository_url": "https://github.com/Rajmund09/badgs",
+      "topics": ["css", "components", "ui-library", "responsive", "frontend"]
+    },
+    {
+      "name": "Rajmund09 - Developer Profile",
+      "type": "Professional Portfolio & Profile Repository",
+      "description": "A comprehensive GitHub profile repository showcasing professional projects, technical achievements, contributions, and expertise across artificial intelligence, full-stack development, automation, and emerging technologies.",
+      "language": "Markdown",
+      "stars": 6,
+      "repository_url": "https://github.com/Rajmund09/Rajmund09",
+      "topics": ["profile", "portfolio", "developer", "professional", "github"]
+    }
+  ],
+  "metadata": {
+    "total_projects": 30,
+    "profile_url": "https://github.com/Rajmund09",
+    "total_stars": 144,
+    "generated_date": "2026-05-15",
+    "categories": {
+      "AI & Machine Learning": 5,
+      "Web Development": 12,
+      "Desktop Applications": 4,
+      "Automation Tools": 3,
+      "Educational Platforms": 2,
+      "Games & Entertainment": 3,
+      "Business Solutions": 1
+    }
+  }
+}
