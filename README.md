@@ -1,77 +1,723 @@
-👋 **Hi, I’m Prabhu Shankar Mund (Raj)**  
-
-🎓 **BCA Undergraduate** | 🤖 **Aspiring AI/ML Engineer** | 💻 **Developer & Problem Solver**
-
-I’m a computer science student passionate about building **efficient, scalable, and real-world applications**. I enjoy solving problems with **clean logic**, writing **maintainable code**, and continuously improving my technical skills through projects and hands-on practice.
-
----
-
-🚀 **What I Work With**
-
-- **Programming & DSA:** C++, Python, Java  
-- **AI & Automation:** Python-based automation tools & workflows  
-- **Web Development:** HTML, CSS, JavaScript, React  
-- **Databases:** MySQL, DBMS fundamentals  
-- **3D Game Art & Design:** Blender, Unity  
+# <div align="center">
+# 
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+My+Dev+Universe+🚀;AI+%7C+Full-Stack+%7C+Automation+%7C+Innovation)](https://github.com/Rajmund09)
+# 
+# </div>
 
 ---
 
-🌱 **Currently Learning**
+<div align="center">
 
-- Advanced **Data Structures & Algorithms**  
-- **Artificial Intelligence & Machine Learning** fundamentals  
-- Building **real-world projects** using Python & JavaScript  
-- Writing **cleaner, scalable, and production-ready code**  
+## 🌟 Professional Developer | AI Enthusiast | Tech Innovator
 
----
+**Building intelligent solutions at the intersection of AI, Web Development, and Automation**
 
-🤝 **Open to Collaborate On**
+[![GitHub followers](https://img.shields.io/github/followers/Rajmund09?style=for-the-badge&logo=github&color=00D9FF)](https://github.com/Rajmund09)
+[![GitHub stars](https://img.shields.io/github/stars/Rajmund09?style=for-the-badge&logo=github&color=FF006E)](https://github.com/Rajmund09?tab=repositories)
+[![Total Projects](https://img.shields.io/badge/Total%20Projects-30-00D9FF?style=for-the-badge)](https://github.com/Rajmund09?tab=repositories)
 
-- Web development projects  
-- Beginner-friendly open-source contributions  
-- Python / Java-based applications  
+</div>
 
 ---
 
-🧠 **Looking to Learn More About**
+## 📊 Portfolio Snapshot
 
-- Advanced DSA concepts & optimization techniques  
-- Structured AI/ML learning paths  
-- Software architecture & best development practices  
+<div align="center">
+
+| 🤖 AI/ML | 🌐 Web Dev | 💻 Desktop | 🔧 Automation | 🎮 Games | 📚 Education | 💼 Business |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **5** | **12** | **4** | **3** | **3** | **2** | **1** |
+| Projects | Projects | Projects | Projects | Projects | Projects | Projects |
+
+**⭐ Total Stars: 144** | **📁 Repositories: 30** | **🚀 Last Updated: May 15, 2026**
+
+</div>
 
 ---
 
-💬 **Ask Me About**
+## 🎯 Featured Projects Showcase
 
-C++, Python, Web Development (HTML/CSS/JavaScript/React), DBMS basics, and 3D Game Art using Blender & Unity.
+<div align="center">
+
+### 🤖 AI & Intelligence
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+<div align="center">
+
+### **THING - Voice Assistant** 
+⭐⭐⭐⭐
+
+```
+┌─────────────────────┐
+│  🎤 AI Voice Agent  │
+│  Windows-Powered    │
+│  Groq LLM Engine    │
+└─────────────────────┘
+```
+
+**Advanced Features:**
+- 🗣️ NLP Processing
+- 🎵 Smart Automation
+- 💾 Context Memory
+- 🔌 System Integration
+
+[🔗 Explore](https://github.com/Rajmund09/THING-Voice-Assistant)
+
+</div>
+
+</td>
+<td width="50%">
+
+<div align="center">
+
+### **ChurnGuard ML**
+⭐⭐
+
+```
+┌─────────────────────┐
+│  📊 ML Prediction   │
+│  93% Accuracy       │
+│  SHAP Explainable   │
+└─────────────────────┘
+```
+
+**Smart Features:**
+- 🎯 XGBoost Models
+- 📈 Real-time Dashboard
+- 🔍 Model Explainability
+- 💡 Business Insights
+
+[🔗 Explore](https://github.com/Rajmund09/churnguard-ml)
+
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
-⚡ **Fun Fact**
+<div align="center">
 
-I love combining **logic and creativity** — from solving DSA problems to designing 3D game assets and crafting smooth, interactive user experiences.
+### 🌐 Web Development & Design
 
-### 🎮 Space Shooter — Gameplay Preview
+</div>
 
-<p align="center">
-  <img src="Rajmund09-space-shooter.gif" width="600" />
+<table>
+<tr>
+<td width="33%">
 
-</p>
+<div align="center">
 
-▶️ Full gameplay video:  
-https://github.com/Rajmund09/Rajmund09/raw/main/space-shooter.mp4
+### **NeuroBrand Studio**
+⭐⭐⭐⭐⭐⭐
 
+```
+╔═══════════════════╗
+║  ✨ Design Focus  ║
+║  • GSAP Anim.     ║
+║  • Luxury UI      ║
+║  • Modern Stack   ║
+╚═══════════════════╝
+```
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/AbCd1234) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raj___mund) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prabhushankar-mund-216a5634a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Prabhushan60291) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prabhushankarmund@gmail.com) 
+**Tech Stack:**
+- HTML/CSS/JS
+- GSAP
+- Locomotive
 
-# Hi there, I'm Rajmund! 👋
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rajmund09&show_icons=true&theme=dark" alt="Rajmund GitHub stats" />
-</p>
+[🔗 Explore](https://github.com/Rajmund09/neurobrand-site)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=plastic) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=plastic&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=plastic&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=plastic&logo=openapiinitiative&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)
+</div>
 
-## GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=RajMund09&theme=highcontrast&hide_border=false)](https://git.io/streak-stats)
+</td>
+<td width="33%">
+
+<div align="center">
+
+### **LernW Platform**
+⭐⭐⭐⭐⭐⭐
+
+```
+╔═══════════════════╗
+║  📚 Education     ║
+║  • Animated UI    ║
+║  • Responsive     ║
+║  • Interactive    ║
+╚═══════════════════╝
+```
+
+**Tech Stack:**
+- HTML/CSS/JS
+- Responsive
+- Modern LMS
+
+[🔗 Explore](https://github.com/Rajmund09/course_website)
+
+</div>
+
+</td>
+<td width="33%">
+
+<div align="center">
+
+### **Portfolio Site**
+⭐⭐⭐⭐⭐
+
+```
+╔═══════════════════╗
+║  🎨 Showcase      ║
+║  • Case Studies   ║
+║  • AI/ML Work     ║
+║  • 3D Graphics    ║
+╚═══════════════════╝
+```
+
+**Tech Stack:**
+- HTML/CSS/JS
+- Animated UI
+- Professional
+
+[🔗 Explore](https://github.com/Rajmund09/prabhu-shankar-portfolio)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 💼 Enterprise Solutions
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+<div align="center">
+
+### **Mini-Banking-System**
+⭐⭐⭐⭐⭐⭐
+
+```
+┏━━━━━━━━━━━━━━━━━┓
+┃   🏦 Banking    ┃
+┃  • CRUD Ops     ┃
+┃  • Security     ┃
+┃  • Java/JDBC    ┃
+┗━━━━━━━━━━━━━━━━━┛
+```
+
+**Enterprise Features:**
+- Complete banking workflow
+- Admin controls
+- Data security
+- Transaction management
+
+[🔗 Explore](https://github.com/Rajmund09/Mini-Banking-System)
+
+</div>
+
+</td>
+<td width="50%">
+
+<div align="center">
+
+### **TOKEN.GATE**
+⭐⭐
+
+```
+┏━━━━━━━━━━━━━━━━━┓
+┃   🔐 Security   ┃
+┃  • Multi-Tenant ┃
+┃  • Auditing     ┃
+┃  • Enterprise   ┃
+┗━━━━━━━━━━━━━━━━━┛
+```
+
+**Security Features:**
+- Access management
+- Multi-tenant support
+- Comprehensive auditing
+- Modern aesthetic
+
+[🔗 Explore](https://github.com/Rajmund09/TOKEN.GATE)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 🔧 Automation & Tools
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+<div align="center">
+
+### **WhatsApp AI Bot**
+⭐⭐⭐⭐
+
+```
+💬 ┌─────────────┐
+   │ AI ChatBot  │
+   │ Auto-Reply  │
+   │ Groq LLM    │
+   └─────────────┘
+```
+
+**Automation Magic:**
+- 🤖 Intelligent responses
+- ⚡ PyAutoGUI control
+- 🔄 Workflow automation
+- 💡 Context aware
+
+[🔗 Explore](https://github.com/Rajmund09/whatsapp-ai-auto-reply-bot)
+
+</div>
+
+</td>
+<td width="50%">
+
+<div align="center">
+
+### **SkillTrack**
+⭐⭐⭐⭐⭐⭐⭐
+
+```
+📊 ┌─────────────┐
+   │ Analytics   │
+   │ Flask App   │
+   │ Pandas Data │
+   └─────────────┘
+```
+
+**Productivity Stack:**
+- 📈 Performance tracking
+- 💾 Data management
+- 🎯 Skill progression
+- 📉 Visual analytics
+
+[🔗 Explore](https://github.com/Rajmund09/SkillTrack)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 🌾 Innovation Projects
+
+</div>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### **AgroBrain 360**
+⭐⭐
+
+```
+🌱 AI AGRICULTURE 🌾
+┌──────────────────┐
+│ Disease Detection│
+│ Livestock Health│
+│ Machinery Repair│
+│ Waste Mgmt      │
+│ Edge AI         │
+└──────────────────┘
+```
+
+**Impact:** Empowering rural farmers with AI-powered solutions
+
+[🔗 Explore](https://github.com/Rajmund09/agrobrain-360)
+
+</td>
+<td width="50%">
+
+### **Algoarena Connect**
+⭐⭐⭐⭐
+
+```
+🎮 TOURNAMENT HUB 🏆
+┌──────────────────┐
+│ Community Focus  │
+│ Social Channels  │
+│ Player Network   │
+│ Modern Design    │
+│ Engagement Tools │
+└──────────────────┘
+```
+
+**Community:** Building competitive gaming ecosystems
+
+[🔗 Explore](https://github.com/Rajmund09/Algoarena-connect-landing)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🛠️ Technical Arsenal
+
+<div align="center">
+
+### Languages & Frameworks
+
+```
+┌─────────────────────────────────────┐
+│  PROGRAMMING MASTERY               │
+├─────────────────────────────────────┤
+│ 🐍 Python      ████████████░░░  92% │
+│ 📱 JavaScript  ██████████░░░░░░ 80% │
+│ ☕ Java        ████████░░░░░░░░ 70% │
+│ 🎮 C++         ███████░░░░░░░░░ 65% │
+│ 📘 TypeScript  ██████░░░░░░░░░░ 60% │
+└─────────────────────────────────────┘
+```
+
+### Core Technologies
+
+<div>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+</div>
+
+<div>
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+<div>
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-20B2AA?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+</div>
+
+---
+
+## 🎓 Core Competencies
+
+<div align="center">
+
+<table>
+<tr>
+<td width="20%">
+
+<div align="center">
+
+### 🤖 **AI/ML**
+
+```
+████████░░ 85%
+
+• NLP
+• Computer Vision
+• Predictive Models
+• Groq LLM
+```
+
+</div>
+
+</td>
+<td width="20%">
+
+<div align="center">
+
+### 🌐 **Web Dev**
+
+```
+█████████░ 92%
+
+• Full-Stack
+• Responsive
+• Modern UI
+• Animations
+```
+
+</div>
+
+</td>
+<td width="20%">
+
+<div align="center">
+
+### 🔐 **Enterprise**
+
+```
+████████░░ 82%
+
+• Security
+• Banking
+• Multi-Tenant
+• CRUD Ops
+```
+
+</div>
+
+</td>
+<td width="20%">
+
+<div align="center">
+
+### ⚙️ **Automation**
+
+```
+████████░░ 80%
+
+• Web Scraping
+• System Automation
+• Bot Development
+• Integration
+```
+
+</div>
+
+</td>
+<td width="20%">
+
+<div align="center">
+
+### 🎨 **Design**
+
+```
+█████████░ 88%
+
+• UI/UX
+• Animations
+• Responsive
+• Modern Aesthetics
+```
+
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+
+```
+╔════════════════════════════════════════╗
+║       🏆 ACHIEVEMENT METRICS          ║
+╠════════════════════════════════════════╣
+║  Total Stars Earned         ⭐ 144    ║
+║  Active Projects            📁 30     ║
+║  Primary Focus              🤖 AI/ML  ║
+║  Specialization             🌐 Web    ║
+║  ML Model Accuracy          📊 93%    ║
+║  Code Quality               ✨ High   ║
+╚════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 🚀 Quick Navigation
+
+<div align="center">
+
+| 🤖 AI Projects | 🌐 Web Projects | 💼 Enterprise | 🔧 Tools |
+|:---:|:---:|:---:|:---:|
+| [THING AI](https://github.com/Rajmund09/THING-Voice-Assistant) | [NeuroBrand](https://github.com/Rajmund09/neurobrand-site) | [Banking System](https://github.com/Rajmund09/Mini-Banking-System) | [SkillTrack](https://github.com/Rajmund09/SkillTrack) |
+| [ChurnGuard](https://github.com/Rajmund09/churnguard-ml) | [LernW](https://github.com/Rajmund09/course_website) | [TOKEN.GATE](https://github.com/Rajmund09/TOKEN.GATE) | [WhatsApp Bot](https://github.com/Rajmund09/whatsapp-ai-auto-reply-bot) |
+| [AgroBrain](https://github.com/Rajmund09/agrobrain-360) | [Portfolio](https://github.com/Rajmund09/prabhu-shankar-portfolio) | [Billing System](https://github.com/Rajmund09/Electricity-Billing-System) | [Epic Claimer](https://github.com/Rajmund09/epic-free-games-claimer) |
+
+</div>
+
+---
+
+## 💡 Project Categories Breakdown
+
+<div align="center">
+
+### 🎯 Specialized Expertise Areas
+
+<table>
+<tr>
+<td width="25%">
+
+```
+🤖 AI & ML
+━━━━━━━━━━━━
+▓▓▓▓▓ 16.7%
+(5 Projects)
+
+Voice Assistant
+Churn Prediction
+AgriBrain AI
+Education AI
+Automation Bot
+```
+
+</td>
+<td width="25%">
+
+```
+🌐 Web Dev
+━━━━━━━━━━━━
+▓▓▓▓▓▓▓▓▓▓▓▓ 40%
+(12 Projects)
+
+Design Studios
+Platforms
+Portfolios
+Tools
+Components
+```
+
+</td>
+<td width="25%">
+
+```
+💻 Desktop
+━━━━━━━━━━━━
+▓▓▓▓ 13.3%
+(4 Projects)
+
+Banking System
+Billing System
+App Prototypes
+DSA Simulator
+```
+
+</td>
+<td width="25%">
+
+```
+🔧 Automation
+━━━━━━━━━━━━
+▓▓▓ 10%
+(3 Projects)
+
+Productivity
+Web Scraping
+Access Mgmt
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🌟 Highlighted Achievements
+
+<div align="center">
+
+```
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃            🏆 MILESTONES             ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+✅ 30 Active Production Projects
+✅ 144 Community Stars Earned
+✅ 93% Accuracy ML Models
+✅ Multilingual Application Support
+✅ Enterprise-Grade Security
+✅ Full-Stack Capabilities
+✅ AI/ML Expertise
+✅ Modern Design Aesthetics
+✅ Innovative Solutions
+✅ Continuous Development
+```
+
+</div>
+
+---
+
+## 📚 Latest Portfolio Files
+
+<div align="center">
+
+| File | Description | Link |
+|------|-------------|------|
+| **PORTFOLIO.md** | 📄 Comprehensive project showcase | [View](https://github.com/Rajmund09/Rajmund09/blob/main/PORTFOLIO.md) |
+| **projects.json** | 🗂️ Structured project metadata | [View](https://github.com/Rajmund09/Rajmund09/blob/main/projects.json) |
+
+</div>
+
+---
+
+## 🤝 Let's Collaborate!
+
+<div align="center">
+
+### Interested in my work? Let's connect!
+
+[![Email](https://img.shields.io/badge/Email-prabhushankarmund%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:prabhushankarmund@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Rajmund09-00D9FF?style=for-the-badge&logo=github)](https://github.com/Rajmund09)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20All%20Projects-FF006E?style=for-the-badge)](https://github.com/Rajmund09?tab=repositories)
+
+---
+
+```
+"Code is poetry written in logic"
+                    - Rajmund09
+
+🚀 Building the Future, One Project at a Time 🚀
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ If you find my projects interesting, feel free to star and fork them!
+
+**Made with ❤️ by [Rajmund09](https://github.com/Rajmund09)**
+
+*Last Updated: May 15, 2026*
+
+</div>
