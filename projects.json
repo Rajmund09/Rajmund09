@@ -182,7 +182,7 @@
       "name": "Cleany",
       "type": "Data Preprocessing Platform",
       "category": "AI & Machine Learning",
-      "description": "Intelligent data preprocessing and reporting automation platform built using Flask, Pandas, and modern visualization tools. Automates dataset cleaning workflows, detects inconsistencies, generates visual summaries, and produces professional analytical reports.",
+      "description": "Intelligent data preprocessing and reporting automation platform built using Flask, Pandas, and modern visualization tools. Automates dataset cleaning workflows, detects inconsistencies, generates visual summaries, and produces professional analytical reports through a premium minimalist interface.",
       "language": "Python",
       "stars": 2,
       "repository_url": "https://github.com/Rajmund09/Cleany",
@@ -205,6 +205,19 @@
     },
     {
       "id": 15,
+      "name": "COG-EW",
+      "type": "AI Research Project",
+      "category": "AI & Machine Learning",
+      "description": "AI-focused cognitive engineering project for intelligent workflows, decision support, and adaptive automation.",
+      "language": null,
+      "stars": 0,
+      "repository_url": "https://github.com/Rajmund09/COG-EW",
+      "live_demo": null,
+      "topics": ["ai", "cognitive", "automation", "research"],
+      "status": "active"
+    },
+    {
+      "id": 16,
       "name": "Electricity-Billing-System",
       "type": "Desktop Application",
       "category": "Backend & Systems",
@@ -217,7 +230,7 @@
       "status": "active"
     },
     {
-      "id": 16,
+      "id": 17,
       "name": "elegant-todo-pro",
       "type": "Productivity App",
       "category": "Frontend & UI Design",
@@ -230,7 +243,7 @@
       "status": "active"
     },
     {
-      "id": 17,
+      "id": 18,
       "name": "epic-free-games-claimer",
       "type": "Automation Tool",
       "category": "Games & Entertainment",
@@ -243,7 +256,7 @@
       "status": "active"
     },
     {
-      "id": 18,
+      "id": 19,
       "name": "faulty-calculator-web",
       "type": "Entertainment Web App",
       "category": "Games & Entertainment",
@@ -256,7 +269,7 @@
       "status": "active"
     },
     {
-      "id": 19,
+      "id": 20,
       "name": "Fu-Si",
       "type": "Predictive Analytics Platform",
       "category": "AI & Machine Learning",
@@ -269,7 +282,7 @@
       "status": "active"
     },
     {
-      "id": 20,
+      "id": 21,
       "name": "git-initeducation-intelligence-platform",
       "type": "Educational Platform",
       "category": "Web Applications",
@@ -282,7 +295,7 @@
       "status": "active"
     },
     {
-      "id": 21,
+      "id": 22,
       "name": "Guess-The-Number",
       "type": "Game",
       "category": "Games & Entertainment",
@@ -295,11 +308,11 @@
       "status": "active"
     },
     {
-      "id": 22,
+      "id": 23,
       "name": "manoj-kirana-store-official",
       "type": "Business Website",
       "category": "Web Applications",
-      "description": "Official bilingual (Odia + English) responsive website for Manoj Kirana Store, a local grocery shop in Gungunia, Odisha. Built with HTML, CSS, and JavaScript with mobile-first design, WhatsApp integration, and Google Maps support.",
+      "description": "Official bilingual (Odia + English) responsive website for Manoj Kirana Store, a local grocery shop in Gungunia, Odisha. Built with HTML, CSS, and JavaScript. Mobile-first design with WhatsApp integration and Google Maps support.",
       "language": "CSS",
       "stars": 3,
       "repository_url": "https://github.com/Rajmund09/manoj-kirana-store-official",
@@ -309,7 +322,7 @@
       "location": "Gungunia, Odisha"
     },
     {
-      "id": 23,
+      "id": 24,
       "name": "Mini-Banking-System",
       "type": "Desktop Application",
       "category": "Backend & Systems",
@@ -322,7 +335,7 @@
       "status": "active"
     },
     {
-      "id": 24,
+      "id": 25,
       "name": "MSBT",
       "type": "ERP Platform",
       "category": "Backend & Systems",
@@ -335,7 +348,7 @@
       "status": "active"
     },
     {
-      "id": 25,
+      "id": 26,
       "name": "mund-global-insurance-website",
       "type": "Business Website",
       "category": "Web Applications",
@@ -348,7 +361,7 @@
       "status": "active"
     },
     {
-      "id": 26,
+      "id": 27,
       "name": "netflix-project",
       "type": "Frontend Clone",
       "category": "Frontend & UI Design",
@@ -361,11 +374,11 @@
       "status": "active"
     },
     {
-      "id": 27,
+      "id": 28,
       "name": "neurobrand-site",
       "type": "Branding Website",
       "category": "Frontend & UI Design",
-      "description": "NeuroBrand Studio - Modern AI-powered branding website built with HTML, CSS, JavaScript, GSAP, and Locomotive Scroll. Showcases futuristic design, smooth animations, and immersive video-based storytelling.",
+      "description": "NeuroBrand Studio - Modern AI-powered branding website built with HTML, CSS, JavaScript, GSAP, and Locomotive Scroll. It showcases futuristic design, smooth animations, and immersive video-based storytelling for next-gen digital brands.",
       "language": "CSS",
       "stars": 6,
       "repository_url": "https://github.com/Rajmund09/neurobrand-site",
@@ -374,7 +387,20 @@
       "status": "active"
     },
     {
-      "id": 28,
+      "id": 29,
+      "name": "PEELSTICK",
+      "type": "Product Website",
+      "category": "Web Applications",
+      "description": "Peel anything. Stick it anywhere.",
+      "language": null,
+      "stars": 0,
+      "repository_url": "https://github.com/Rajmund09/PEELSTICK",
+      "live_demo": null,
+      "topics": ["product", "branding", "design"],
+      "status": "active"
+    },
+    {
+      "id": 30,
       "name": "prabhu-shankar-portfolio",
       "type": "Portfolio Website",
       "category": "Frontend & UI Design",
@@ -387,7 +413,7 @@
       "status": "active"
     },
     {
-      "id": 29,
+      "id": 31,
       "name": "Rajmund09",
       "type": "Profile Repository",
       "category": "Documentation & Meta",
@@ -400,7 +426,7 @@
       "status": "active"
     },
     {
-      "id": 30,
+      "id": 32,
       "name": "RealityFrame",
       "type": "Computer Vision Project",
       "category": "AI & Machine Learning",
@@ -413,7 +439,7 @@
       "status": "active"
     },
     {
-      "id": 31,
+      "id": 33,
       "name": "sales-analytics-dashboard",
       "type": "Analytics Dashboard",
       "category": "Web Applications",
@@ -426,7 +452,7 @@
       "status": "active"
     },
     {
-      "id": 32,
+      "id": 34,
       "name": "SAMBODRA",
       "type": "TypeScript Project",
       "category": "Backend & Systems",
@@ -439,7 +465,7 @@
       "status": "active"
     },
     {
-      "id": 33,
+      "id": 35,
       "name": "SegmentIQ",
       "type": "Customer Analytics Platform",
       "category": "AI & Machine Learning",
@@ -452,7 +478,7 @@
       "status": "active"
     },
     {
-      "id": 34,
+      "id": 36,
       "name": "SkillTrack",
       "type": "Skill Management Application",
       "category": "Web Applications",
@@ -465,7 +491,7 @@
       "status": "active"
     },
     {
-      "id": 35,
+      "id": 37,
       "name": "smart-city-dsa-simulator",
       "type": "Educational Simulator",
       "category": "Backend & Systems",
@@ -478,7 +504,7 @@
       "status": "active"
     },
     {
-      "id": 36,
+      "id": 38,
       "name": "smooth-bounce-animation",
       "type": "CSS Animation Library",
       "category": "Frontend & UI Design",
@@ -491,7 +517,7 @@
       "status": "active"
     },
     {
-      "id": 37,
+      "id": 39,
       "name": "snake-water-gun-python",
       "type": "Game",
       "category": "Games & Entertainment",
@@ -504,7 +530,7 @@
       "status": "active"
     },
     {
-      "id": 38,
+      "id": 40,
       "name": "text-editor-download-ui",
       "type": "UI Template",
       "category": "Frontend & UI Design",
@@ -517,7 +543,7 @@
       "status": "active"
     },
     {
-      "id": 39,
+      "id": 41,
       "name": "THERsenel",
       "type": "Computer Vision System",
       "category": "AI & Machine Learning",
@@ -530,7 +556,7 @@
       "status": "active"
     },
     {
-      "id": 40,
+      "id": 42,
       "name": "THING-Voice-Assistant",
       "type": "AI Voice Assistant",
       "category": "AI & Machine Learning",
@@ -543,11 +569,11 @@
       "status": "active"
     },
     {
-      "id": 41,
+      "id": 43,
       "name": "TOKEN.GATE",
       "type": "Security Platform",
       "category": "Web Applications",
-      "description": "TOKEN.GATE - High-security, multi-tenant industrial access management platform designed for seamless event hosting and identity verification. Built with a 'Security-First' philosophy with vibrant modern aesthetics, robust backend auditing, and protocol isolation.",
+      "description": "TOKEN.GATE - High-security, multi-tenant industrial access management platform designed for seamless event hosting and identity verification. Built with a 'Security-First' philosophy, it combines vibrant modern aesthetics with robust backend auditing and protocol isolation.",
       "language": "Python",
       "stars": 2,
       "repository_url": "https://github.com/Rajmund09/TOKEN.GATE",
@@ -557,7 +583,7 @@
       "architecture": "Security-First design"
     },
     {
-      "id": 42,
+      "id": 44,
       "name": "TradeVision_AI",
       "type": "Trading Analytics Platform",
       "category": "AI & Machine Learning",
@@ -570,12 +596,12 @@
       "status": "active"
     },
     {
-      "id": 43,
+      "id": 45,
       "name": "VIRALYTIX",
       "type": "Machine Learning System",
       "category": "AI & Machine Learning",
-      "description": "Machine learning system that predicts the reach, engagement, and virality potential of short-form videos before publication.",
-      "language": "Python",
+      "description": "A machine learning system that predicts the reach, engagement, and virality potential of short-form videos before publication.",
+      "language": "TypeScript",
       "stars": 1,
       "repository_url": "https://github.com/Rajmund09/VIRALYTIX",
       "live_demo": null,
@@ -583,7 +609,7 @@
       "status": "active"
     },
     {
-      "id": 44,
+      "id": 46,
       "name": "whatsapp-ai-auto-reply-bot",
       "type": "Automation Bot",
       "category": "AI & Machine Learning",
@@ -676,36 +702,36 @@
     ]
   },
   "statistics": {
-    "total_projects": 44,
-    "total_repositories": 44,
-    "active_projects": 44,
+    "total_projects": 46,
+    "total_repositories": 46,
+    "active_projects": 46,
     "total_stars": 136,
-    "average_stars_per_project": 3.09,
+    "average_stars_per_project": 2.95,
     "programming_languages": 9,
     "most_used_language": "Python & HTML/CSS",
     "web_projects": 16,
-    "ai_ml_projects": 12,
+    "ai_ml_projects": 13,
     "mobile_apps": 3,
     "desktop_applications": 4,
     "games_entertainment": 5,
     "frontend_ui_projects": 10,
-    "backend_systems": 4
+    "backend_systems": 6
   },
   "categories_breakdown": {
     "Frontend & UI Design": {
       "count": 10,
-      "projects": ["aesthetic-card-ui", "elegant-todo-pro", "neurobrand-site", "netflix-project", "prabhu-shankar-portfolio", "badgs", "smooth-bounce-animation", "text-editor-download-ui"]
+      "projects": ["aesthetic-card-ui", "elegant-todo-pro", "neurobrand-site", "netflix-project", "prabhu-shankar-portfolio", "badgs", "smooth-bounce-animation", "text-editor-download-ui", "PEELSTICK"]
     },
     "Web Applications": {
-      "count": 8,
-      "projects": ["business-name-generator", "course_website", "manoj-kirana-store-official", "mund-global-insurance-website", "Algoarena-connect-landing", "card-builder-pro", "TOKEN.GATE", "sales-analytics-dashboard", "git-initeducation-intelligence-platform", "SkillTrack"]
+      "count": 9,
+      "projects": ["business-name-generator", "course_website", "manoj-kirana-store-official", "mund-global-insurance-website", "Algoarena-connect-landing", "card-builder-pro", "TOKEN.GATE", "sales-analytics-dashboard", "PEELSTICK"]
     },
     "AI & Machine Learning": {
-      "count": 12,
-      "projects": ["agrobrain-360", "churnguard-ml", "Cleany", "Fu-Si", "RealityFrame", "SegmentIQ", "THING-Voice-Assistant", "THERsenel", "TradeVision_AI", "VIRALYTIX", "whatsapp-ai-auto-reply-bot"]
+      "count": 13,
+      "projects": ["agrobrain-360", "churnguard-ml", "Cleany", "COG-EW", "Fu-Si", "RealityFrame", "SegmentIQ", "THING-Voice-Assistant", "THERsenel", "TradeVision_AI", "VIRALYTIX", "whatsapp-ai-auto-reply-bot", "SkillTrack"]
     },
     "Backend & Systems": {
-      "count": 4,
+      "count": 6,
       "projects": ["Electricity-Billing-System", "Mini-Banking-System", "smart-city-dsa-simulator", "MSBT", "cinematic-render-quest", "SAMBODRA"]
     },
     "Mobile Apps": {
@@ -732,11 +758,11 @@
   },
   "metadata": {
     "profile_url": "https://github.com/Rajmund09",
-    "generated_date": "2026-09-12",
-    "last_updated": "2026-09-12",
+    "generated_date": "2026-09-22",
+    "last_updated": "2026-09-22",
     "analysis_status": "Complete GitHub Analysis",
     "profile_completeness": "100%",
     "documentation_status": "Comprehensive",
-    "version": "2.0"
+    "version": "2.1"
   }
 }
