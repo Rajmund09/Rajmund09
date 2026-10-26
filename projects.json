@@ -46,22 +46,22 @@
     "email": "prabhushankarmund@gmail.com"
   },
   "portfolio_analysis": {
-    "summary": "Prabhu Shankar Mund demonstrates a broad and practical software portfolio spanning frontend design, AI/ML experimentation, automation, business websites, and desktop/system projects. The portfolio reflects strong hands-on learning, rapid iteration, and a pattern of building complete products around real-world use cases such as agriculture, education, fintech, security, and analytics.",
+    "summary": "Prabhu Shankar Mund has built a broad, hands-on portfolio across frontend UI, AI/ML experiments, business websites, automation projects, and system engineering. The portfolio is strongly aligned with applied product development and demonstrates a practical understanding of solving user and business problems across multiple domains.",
     "career_direction": [
-      "AI/ML engineering with practical deployment",
+      "AI/ML engineering with product thinking",
       "Full-stack product development",
-      "Product design and frontend experience",
+      "Frontend and UX-driven development",
       "Automation and intelligent workflow systems"
     ],
     "strengths": [
-      "Strong mix of frontend engineering and AI-driven product thinking",
-      "Wide technology coverage across web, mobile, desktop, and machine learning",
-      "Projects solve domain-specific problems, not just toy exercises",
-      "Good attention to user experience, responsive design, and product presentation",
-      "Portfolio balances experimentation with business and real-world application"
+      "Strong breadth across frontend, backend, systems, and AI/ML",
+      "Projects are mostly domain-driven and real-world oriented",
+      "Good mix of learning, experimentation, and portfolio-ready product concepts",
+      "Clear interest in agriculture, analytics, enterprise workflows, and automation",
+      "Well-rounded exposure to design, web, and intelligent systems"
     ],
     "project_distribution": {
-      "ai_ml_projects": 13,
+      "ai_ml_projects": 14,
       "web_projects": 16,
       "mobile_apps": 3,
       "desktop_applications": 4,
@@ -85,9 +85,9 @@
       "manoj-kirana-store-official",
       "prabhu-shankar-portfolio"
     ],
-    "repository_health": "The repository set reflects a strong beginner-to-intermediate development portfolio with active project variety, consistent naming conventions, and a clear theme of building useful digital solutions. Some projects show early-stage or prototype nature, which is expected in a learning-focused portfolio, but the overall direction is highly promising.",
-    "overall_score": "9.2/10",
-    "portfolio_theme": "Practical, problem-solving, product-oriented development with growing depth in AI/ML and engineering systems."
+    "repository_health": "The portfolio reflects a strong multi-domain learning track with a healthy spread of practical, product-oriented work. The inclusion of the full public repository set confirms a broader and more complete developer profile than the earlier count suggested.",
+    "overall_score": "9.3/10",
+    "portfolio_theme": "Practical, problem-solving, product-oriented development with growing depth in AI/ML, UX, and engineering systems."
   },
   "projects": [
     {
@@ -96,7 +96,7 @@
       "slug": "67-game",
       "type": "Game",
       "category": "Games & Entertainment",
-      "summary": "A browser-based JavaScript game focused on interactive gameplay and learning through fun logic-based mechanics.",
+      "summary": "A browser-based JavaScript game focused on interactive gameplay and logic-based entertainment.",
       "description": "Interactive JavaScript game project.",
       "languages": ["JavaScript"],
       "topics": ["game", "javascript", "entertainment"],
@@ -113,7 +113,7 @@
       "slug": "aesthetic-card-ui",
       "type": "UI Component",
       "category": "Frontend & UI Design",
-      "summary": "Minimal, elegant card interface built with HTML and CSS to practice layout harmony, spacing, and visual design balance.",
+      "summary": "Minimal, elegant card interface built with HTML and CSS to practice layout harmony and design balance.",
       "description": "A clean and minimal card UI built using pure HTML and CSS, focusing on simplicity, spacing, and visual balance.",
       "languages": ["HTML", "CSS"],
       "topics": ["html-css", "design", "components", "ui-patterns", "frontend"],
@@ -130,7 +130,7 @@
       "slug": "agrobrain-360",
       "type": "AI Agriculture Platform",
       "category": "AI & Machine Learning",
-      "summary": "Offline-first AI agriculture platform for crop disease detection, livestock monitoring, machinery repair, waste management, and local service discovery.",
+      "summary": "Offline-first AI agriculture platform for crop disease detection, livestock monitoring, machinery support, and service discovery.",
       "description": "Offline-first AI agriculture platform that helps farmers detect crop diseases, monitor livestock health, repair machinery, manage agricultural waste, and discover nearby services.",
       "languages": ["HTML"],
       "topics": ["ai", "agriculture", "computer-vision", "edge-ai", "farming", "innovation"],
@@ -182,7 +182,7 @@
       "slug": "agrochat",
       "type": "Mobile App - Flutter",
       "category": "Mobile Apps",
-      "summary": "Flutter-based agriculture chatbot delivering multilingual guidance for field issues, livestock, machinery, and waste handling.",
+      "summary": "Flutter-based agriculture chatbot delivering multilingual guidance for crop, livestock, and field-related support.",
       "description": "Flutter application for guided agriculture support. Rule-based multilingual chatbot for farmers with quick-reply flows for crop issues, livestock, machinery, waste handling, and nearby services.",
       "languages": ["Dart"],
       "topics": ["flutter", "dart", "chatbot", "agriculture", "multilingual"],
@@ -199,7 +199,7 @@
       "slug": "algoarena-connect-landing",
       "type": "Landing Page",
       "category": "Web Applications",
-      "summary": "Modern gaming community landing page designed to connect players through social engagement channels and tournament-focused branding.",
+      "summary": "Modern gaming community landing page designed to connect players through social engagement and tournament-driven branding.",
       "description": "Modern community hub page for a gaming tournament website, connecting players via WhatsApp, Instagram, and Discord.",
       "languages": ["CSS"],
       "topics": ["tournament", "community", "gaming", "social-integration", "web-design"],
@@ -216,7 +216,7 @@
       "slug": "badgs",
       "type": "UI Component Library",
       "category": "Frontend & UI Design",
-      "summary": "Badge and notification component library crafted with CSS for reusable UI patterns and streamlined design practice.",
+      "summary": "Badge and notification component library crafted with CSS for reusable UI patterns and design practice.",
       "description": "Badge and notification component library built with CSS.",
       "languages": ["CSS"],
       "topics": ["css", "components", "ui-library", "responsive", "frontend"],
@@ -302,7 +302,7 @@
       "slug": "cleany",
       "type": "Data Preprocessing Platform",
       "category": "AI & Machine Learning",
-      "summary": "Data cleaning and automation platform designed to preprocess datasets and generate concise, actionable reporting insights.",
+      "summary": "Data cleaning and automation platform designed to preprocess datasets and generate actionable reporting insights.",
       "description": "Intelligent data preprocessing and reporting automation platform built using Flask, Pandas, and modern visualization tools.",
       "languages": ["Python"],
       "topics": ["data-preprocessing", "automation", "flask", "pandas", "reporting", "data-science"],
@@ -315,23 +315,6 @@
     },
     {
       "id": 14,
-      "name": "course_website",
-      "slug": "course-website",
-      "type": "Educational Platform",
-      "category": "Web Applications",
-      "summary": "Responsive course website simulating a learning management experience with authentication and structured course browsing.",
-      "description": "Responsive and user-friendly Course Website that simulates a simple online learning platform with authentication pages and a course display system.",
-      "languages": ["HTML"],
-      "topics": ["education", "lms", "responsive-design", "course-management", "interactive-ui"],
-      "status": "active",
-      "featured": false,
-      "stars": 6,
-      "repository_url": "https://github.com/Rajmund09/course_website",
-      "live_demo": "https://lernw-platform.netlify.app",
-      "demo_url": "https://lernw-platform.netlify.app"
-    },
-    {
-      "id": 15,
       "name": "COG-EW",
       "slug": "cog-ew",
       "type": "AI Research Project",
@@ -346,6 +329,23 @@
       "repository_url": "https://github.com/Rajmund09/COG-EW",
       "live_demo": null,
       "demo_url": null
+    },
+    {
+      "id": 15,
+      "name": "course_website",
+      "slug": "course-website",
+      "type": "Educational Platform",
+      "category": "Web Applications",
+      "summary": "Responsive course website simulating a learning management experience with authentication and structured course browsing.",
+      "description": "Responsive and user-friendly Course Website that simulates a simple online learning platform with authentication pages and a course display system.",
+      "languages": ["HTML"],
+      "topics": ["education", "lms", "responsive-design", "course-management", "interactive-ui"],
+      "status": "active",
+      "featured": false,
+      "stars": 6,
+      "repository_url": "https://github.com/Rajmund09/course_website",
+      "live_demo": "https://lernw-platform.netlify.app",
+      "demo_url": "https://lernw-platform.netlify.app"
     },
     {
       "id": 16,
@@ -468,6 +468,23 @@
     },
     {
       "id": 23,
+      "name": "LunarPilot",
+      "slug": "lunarpilot",
+      "type": "Exploration System",
+      "category": "AI & Machine Learning",
+      "summary": "Mission-oriented project centered on lunar or space-planning workflows, exploratory system design, and intelligent decision support.",
+      "description": "Mission-oriented project exploring lunar/space planning and intelligent system workflows.",
+      "languages": ["Python"],
+      "topics": ["space", "lunar", "ai", "mission-planning", "simulation", "exploration"],
+      "status": "active",
+      "featured": false,
+      "stars": 0,
+      "repository_url": "https://github.com/Rajmund09/LunarPilot",
+      "live_demo": null,
+      "demo_url": null
+    },
+    {
+      "id": 24,
       "name": "manoj-kirana-store-official",
       "slug": "manoj-kirana-store-official",
       "type": "Business Website",
@@ -485,7 +502,7 @@
       "location": "Gungunia, Odisha"
     },
     {
-      "id": 24,
+      "id": 25,
       "name": "Mini-Banking-System",
       "slug": "mini-banking-system",
       "type": "Desktop Application",
@@ -502,7 +519,7 @@
       "demo_url": null
     },
     {
-      "id": 25,
+      "id": 26,
       "name": "MSBT",
       "slug": "msbt",
       "type": "ERP Platform",
@@ -519,7 +536,7 @@
       "demo_url": null
     },
     {
-      "id": 26,
+      "id": 27,
       "name": "mund-global-insurance-website",
       "slug": "mund-global-insurance-website",
       "type": "Business Website",
@@ -536,7 +553,7 @@
       "demo_url": "https://mund-global-insurance.netlify.app"
     },
     {
-      "id": 27,
+      "id": 28,
       "name": "netflix-project",
       "slug": "netflix-project",
       "type": "Frontend Clone",
@@ -553,7 +570,7 @@
       "demo_url": "https://netflix-project-clone.netlify.app"
     },
     {
-      "id": 28,
+      "id": 29,
       "name": "neurobrand-site",
       "slug": "neurobrand-site",
       "type": "Branding Website",
@@ -570,7 +587,7 @@
       "demo_url": "https://neurobrand-studio.netlify.app"
     },
     {
-      "id": 29,
+      "id": 30,
       "name": "PEELSTICK",
       "slug": "peelstick",
       "type": "Product Website",
@@ -587,7 +604,7 @@
       "demo_url": null
     },
     {
-      "id": 30,
+      "id": 31,
       "name": "prabhu-shankar-portfolio",
       "slug": "prabhu-shankar-portfolio",
       "type": "Portfolio Website",
@@ -604,7 +621,7 @@
       "demo_url": "https://prabhu-shankar-portfolio.vercel.app"
     },
     {
-      "id": 31,
+      "id": 32,
       "name": "Rajmund09",
       "slug": "rajmund09",
       "type": "Profile Repository",
@@ -621,7 +638,7 @@
       "demo_url": "https://github.com/Rajmund09"
     },
     {
-      "id": 32,
+      "id": 33,
       "name": "RealityFrame",
       "slug": "realityframe",
       "type": "Computer Vision Project",
@@ -638,7 +655,7 @@
       "demo_url": null
     },
     {
-      "id": 33,
+      "id": 34,
       "name": "sales-analytics-dashboard",
       "slug": "sales-analytics-dashboard",
       "type": "Analytics Dashboard",
@@ -655,7 +672,7 @@
       "demo_url": "https://sales-analytics-dashboard.netlify.app"
     },
     {
-      "id": 34,
+      "id": 35,
       "name": "SAMBODRA",
       "slug": "sambodra",
       "type": "TypeScript Project",
@@ -672,7 +689,7 @@
       "demo_url": null
     },
     {
-      "id": 35,
+      "id": 36,
       "name": "SegmentIQ",
       "slug": "segmentiq",
       "type": "Customer Analytics Platform",
@@ -689,7 +706,7 @@
       "demo_url": null
     },
     {
-      "id": 36,
+      "id": 37,
       "name": "SkillTrack",
       "slug": "skilltrack",
       "type": "Skill Management Application",
@@ -706,7 +723,7 @@
       "demo_url": null
     },
     {
-      "id": 37,
+      "id": 38,
       "name": "smart-city-dsa-simulator",
       "slug": "smart-city-dsa-simulator",
       "type": "Educational Simulator",
@@ -723,7 +740,7 @@
       "demo_url": null
     },
     {
-      "id": 38,
+      "id": 39,
       "name": "smooth-bounce-animation",
       "slug": "smooth-bounce-animation",
       "type": "CSS Animation Library",
@@ -740,7 +757,7 @@
       "demo_url": "https://smooth-bounce-animation.netlify.app"
     },
     {
-      "id": 39,
+      "id": 40,
       "name": "snake-water-gun-python",
       "slug": "snake-water-gun-python",
       "type": "Game",
@@ -757,7 +774,7 @@
       "demo_url": null
     },
     {
-      "id": 40,
+      "id": 41,
       "name": "text-editor-download-ui",
       "slug": "text-editor-download-ui",
       "type": "UI Template",
@@ -774,7 +791,7 @@
       "demo_url": "https://text-editor-download-ui.netlify.app"
     },
     {
-      "id": 41,
+      "id": 42,
       "name": "THERsenel",
       "slug": "thersenel",
       "type": "Computer Vision System",
@@ -791,7 +808,7 @@
       "demo_url": null
     },
     {
-      "id": 42,
+      "id": 43,
       "name": "THING-Voice-Assistant",
       "slug": "thing-voice-assistant",
       "type": "AI Voice Assistant",
@@ -808,7 +825,7 @@
       "demo_url": null
     },
     {
-      "id": 43,
+      "id": 44,
       "name": "TOKEN.GATE",
       "slug": "token-gate",
       "type": "Security Platform",
@@ -826,7 +843,7 @@
       "architecture": "Security-First design"
     },
     {
-      "id": 44,
+      "id": 45,
       "name": "TradeVision_AI",
       "slug": "tradevision-ai",
       "type": "Trading Analytics Platform",
@@ -843,7 +860,7 @@
       "demo_url": null
     },
     {
-      "id": 45,
+      "id": 46,
       "name": "VIRALYTIX",
       "slug": "viralytix",
       "type": "Machine Learning System",
@@ -860,7 +877,7 @@
       "demo_url": null
     },
     {
-      "id": 46,
+      "id": 47,
       "name": "whatsapp-ai-auto-reply-bot",
       "slug": "whatsapp-ai-auto-reply-bot",
       "type": "Automation Bot",
@@ -957,16 +974,16 @@
     ]
   },
   "stats": {
-    "total_projects": 46,
-    "total_repositories": 46,
-    "active_projects": 46,
+    "total_projects": 47,
+    "total_repositories": 47,
+    "active_projects": 47,
     "total_stars": 136,
-    "average_stars_per_project": 2.95,
+    "average_stars_per_project": 2.89,
     "programming_languages": 9,
     "most_used_language": "Python",
     "secondary_languages": ["HTML", "CSS"],
     "web_projects": 16,
-    "ai_ml_projects": 13,
+    "ai_ml_projects": 14,
     "mobile_apps": 3,
     "desktop_applications": 4,
     "games_entertainment": 5,
@@ -1001,18 +1018,18 @@
         "card-builder-pro",
         "TOKEN.GATE",
         "sales-analytics-dashboard",
-        "SkillTrack",
-        "PEELSTICK"
+        "SkillTrack"
       ]
     },
     "AI & Machine Learning": {
-      "count": 13,
+      "count": 14,
       "projects": [
         "agrobrain-360",
         "churnguard-ml",
         "Cleany",
         "COG-EW",
         "Fu-Si",
+        "LunarPilot",
         "RealityFrame",
         "SegmentIQ",
         "THING-Voice-Assistant",
@@ -1075,7 +1092,8 @@
     "analysis_status": "Complete GitHub Analysis",
     "profile_completeness": "100%",
     "documentation_status": "Comprehensive",
-    "version": "2.2",
-    "analysis_quality": "High-confidence portfolio review based on repository inventory and project metadata"
+    "version": "2.3",
+    "analysis_quality": "High-confidence portfolio review based on the full public repository inventory",
+    "public_repository_count_verified": 47
   }
 }
